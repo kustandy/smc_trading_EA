@@ -1,0 +1,1 @@
+# smc_trading_EA
